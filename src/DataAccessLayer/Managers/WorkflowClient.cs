@@ -1,8 +1,8 @@
 ﻿using System.Linq;
-using SourceCode.Tools.Management.DataAccessLayer.Model;
-using SourceCode.Tools.Management.Extensions;
+using Tools.Management.DataAccessLayer.Model;
+using Tools.Management.Extensions;
 
-namespace SourceCode.Tools.Management.DataAccessLayer.Managers
+namespace Tools.Management.DataAccessLayer.Managers
 {
     internal class WorkflowClient : K2ManagerBase
     {

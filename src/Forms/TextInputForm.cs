@@ -1,6 +1,6 @@
 ﻿using System.Windows.Forms;
 
-namespace SourceCode.Tools.Management.Forms
+namespace Tools.Management.Forms
 {
     public partial class TextInputForm : Form
     {

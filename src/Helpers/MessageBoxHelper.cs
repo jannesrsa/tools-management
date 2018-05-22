@@ -2,7 +2,7 @@
 using System.Text;
 using System.Windows.Forms;
 
-namespace SourceCode.Tools.Management.Helpers
+namespace Tools.Management.Helpers
 {
     internal static class MessageBoxHelper
     {

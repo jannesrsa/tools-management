@@ -1,6 +1,6 @@
-﻿using SourceCode.Tools.Management.Extensions;
+﻿using Tools.Management.Extensions;
 
-namespace SourceCode.Tools.Management.DataAccessLayer.Managers
+namespace Tools.Management.DataAccessLayer.Managers
 {
     /// <summary>
     /// Base class for managers wrapping K2 API methods

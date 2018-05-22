@@ -3,12 +3,12 @@ using SourceCode.SmartObjects.Authoring;
 using SourceCode.SmartObjects.Management;
 using SourceCode.Workflow.Management;
 
-namespace SourceCode.Tools.Management.DataAccessLayer.Managers
+namespace Tools.Management.DataAccessLayer.Managers
 {
     /// <summary>
     /// Handles all SmartObject API calls
     /// </summary>
-    /// <seealso cref="SourceCode.Tools.Management.DataAccessLayer.Managers.K2ManagerBaseOfType{SourceCode.SmartObjects.Management.SmartObjectManagementServer}" />
+    /// <seealso cref="Tools.Management.DataAccessLayer.Managers.K2ManagerBaseOfType{SourceCode.SmartObjects.Management.SmartObjectManagementServer}" />
     internal class SmartObjectManager : K2ManagerBaseOfType<SmartObjectManagementServer>
     {
         public void DeleteWorkflowReportingSmartObjects(ProcessSet processSet)

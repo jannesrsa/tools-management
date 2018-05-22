@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceCode.Tools.Management", "src\SourceCode.Tools.Management.csproj", "{62B614C7-0105-4489-9D9E-7FE4E9905CAA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools.Management", "src\Tools.Management.csproj", "{62B614C7-0105-4489-9D9E-7FE4E9905CAA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution File", "Solution File", "{07EABD48-919D-43B6-9791-06B54376FCB3}"
 	ProjectSection(SolutionItems) = preProject

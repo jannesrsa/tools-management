@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SourceCode.Tools.Management
+namespace Tools.Management
 {
     /// <summary>
     /// Contains all constants used in the app

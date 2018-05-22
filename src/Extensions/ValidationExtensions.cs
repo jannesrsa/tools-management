@@ -1,7 +1,7 @@
 ﻿using System;
-using SourceCode.Tools.Management.Properties;
+using Tools.Management.Properties;
 
-namespace SourceCode.Tools.Management.Extensions
+namespace Tools.Management.Extensions
 {
     public static class ValidationExtensions
     {

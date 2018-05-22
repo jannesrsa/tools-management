@@ -3,7 +3,7 @@ using SourceCode.EnvironmentSettings.Client;
 using SourceCode.Hosting.Client.BaseAPI;
 using SourceCode.Workflow.Design.EnvironmentSettings;
 
-namespace SourceCode.Tools.Management.DataAccessLayer
+namespace Tools.Management.DataAccessLayer
 {
     /// <summary>
     /// Contains the K2 Configuration settings

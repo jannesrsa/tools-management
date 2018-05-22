@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Windows.Forms;
-using SourceCode.Tools.Management.Helpers;
-using SourceCode.Tools.Management.Properties;
+using Tools.Management.Helpers;
+using Tools.Management.Properties;
 
-namespace SourceCode.Tools.Management.Extensions
+namespace Tools.Management.Extensions
 {
     /// <summary>
     /// Form extention methods

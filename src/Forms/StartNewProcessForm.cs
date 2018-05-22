@@ -3,13 +3,13 @@ using System.Drawing;
 using System.Globalization;
 using System.Linq;
 using System.Windows.Forms;
-using SourceCode.Tools.Management.DataAccessLayer;
-using SourceCode.Tools.Management.DataAccessLayer.Model;
-using SourceCode.Tools.Management.Extensions;
-using SourceCode.Tools.Management.Properties;
+using Tools.Management.DataAccessLayer;
+using Tools.Management.DataAccessLayer.Model;
+using Tools.Management.Extensions;
+using Tools.Management.Properties;
 using SourceCode.Workflow.Management;
 
-namespace SourceCode.Tools.Management.Forms
+namespace Tools.Management.Forms
 {
     public partial class StartNewProcessForm : Form
     {

@@ -2,16 +2,16 @@ using System;
 using System.Linq;
 using System.Windows.Forms;
 using SourceCode.Hosting.Client.BaseAPI;
-using SourceCode.Tools.Management.DataAccessLayer;
-using SourceCode.Tools.Management.Extensions;
-using SourceCode.Tools.Management.Factories;
-using SourceCode.Tools.Management.Forms;
-using SourceCode.Tools.Management.Helpers;
-using SourceCode.Tools.Management.Model;
-using SourceCode.Tools.Management.Properties;
+using Tools.Management.DataAccessLayer;
+using Tools.Management.Extensions;
+using Tools.Management.Factories;
+using Tools.Management.Forms;
+using Tools.Management.Helpers;
+using Tools.Management.Model;
+using Tools.Management.Properties;
 using SourceCode.Workflow.Management;
 
-namespace SourceCode.Tools.Management
+namespace Tools.Management
 {
     public partial class MainForm : Form
     {

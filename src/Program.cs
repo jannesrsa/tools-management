@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Threading;
 using System.Windows.Forms;
-using SourceCode.Tools.Management.Helpers;
+using Tools.Management.Helpers;
 
-namespace SourceCode.Tools.Management
+namespace Tools.Management
 {
     internal static class Program
     {

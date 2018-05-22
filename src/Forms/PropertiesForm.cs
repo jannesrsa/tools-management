@@ -1,7 +1,7 @@
 using System;
 using System.Windows.Forms;
 
-namespace SourceCode.Tools.Management
+namespace Tools.Management
 {
     public partial class PropertiesForm : Form
     {

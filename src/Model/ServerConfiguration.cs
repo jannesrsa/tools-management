@@ -9,9 +9,9 @@ using System.Text;
 using System.Xml;
 using System.Xml.XPath;
 using SourceCode.Hosting.Client.BaseAPI;
-using SourceCode.Tools.Management.Extensions;
+using Tools.Management.Extensions;
 
-namespace SourceCode.Tools.Management.Model
+namespace Tools.Management.Model
 {
     internal class ServerConfiguration
     {

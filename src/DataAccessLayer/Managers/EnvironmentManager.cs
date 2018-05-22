@@ -2,7 +2,7 @@
 using System.Linq;
 using SourceCode.EnvironmentSettings.Client;
 
-namespace SourceCode.Tools.Management.DataAccessLayer.Managers
+namespace Tools.Management.DataAccessLayer.Managers
 {
     internal class EnvironmentManager : K2ManagerBase
     {

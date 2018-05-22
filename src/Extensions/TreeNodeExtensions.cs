@@ -1,7 +1,7 @@
 ﻿using System.Reflection;
 using System.Windows.Forms;
 
-namespace SourceCode.Tools.Management.Extensions
+namespace Tools.Management.Extensions
 {
     internal static class TreeNodeExtensions
     {

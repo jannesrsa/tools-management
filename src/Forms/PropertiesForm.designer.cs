@@ -1,4 +1,4 @@
-namespace SourceCode.Tools.Management
+namespace Tools.Management
 {
     partial class PropertiesForm
     {

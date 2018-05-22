@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using SourceCode.Tools.Management.Extensions;
+using Tools.Management.Extensions;
 
-namespace SourceCode.Tools.Management.DataAccessLayer.Model
+namespace Tools.Management.DataAccessLayer.Model
 {
     /// <summary>
     /// DataField

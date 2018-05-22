@@ -2,7 +2,7 @@
 using System.Linq;
 using System.Windows.Forms;
 
-namespace SourceCode.Tools.Management.Extensions
+namespace Tools.Management.Extensions
 {
     /// <summary>
     /// Extension methods for TreeNodeCollection

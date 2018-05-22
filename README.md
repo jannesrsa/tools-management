@@ -21,7 +21,7 @@ Thick-client application to manage K2 Workflows.
      
 ### License
 
-SourceCode.Tools.Management is licensed under the MIT license, which can be found in license.txt.
+Tools.Management is licensed under the MIT license, which can be found in license.txt.
 
 **Additional Restrictions**
 

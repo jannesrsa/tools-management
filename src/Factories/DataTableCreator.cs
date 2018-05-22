@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
-using SourceCode.Tools.Management.Extensions;
+using Tools.Management.Extensions;
 using SourceCode.Workflow.Management;
 
-namespace SourceCode.Tools.Management.Factories
+namespace Tools.Management.Factories
 {
     internal static class DataTableCreator
     {

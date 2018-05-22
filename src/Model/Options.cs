@@ -2,7 +2,7 @@
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace SourceCode.Tools.Management.Model
+namespace Tools.Management.Model
 {
     [Serializable]
     public class Options

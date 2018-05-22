@@ -2,12 +2,12 @@ using System;
 using System.Collections.Generic;
 using System.Windows.Forms;
 using SourceCode.Hosting.Client.BaseAPI;
-using SourceCode.Tools.Management.DataAccessLayer;
-using SourceCode.Tools.Management.Extensions;
-using SourceCode.Tools.Management.Model;
+using Tools.Management.DataAccessLayer;
+using Tools.Management.Extensions;
+using Tools.Management.Model;
 using SourceCode.Workflow.Management;
 
-namespace SourceCode.Tools.Management
+namespace Tools.Management
 {
     public partial class ServerPropsForm : Form
     {

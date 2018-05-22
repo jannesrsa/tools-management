@@ -1,15 +1,15 @@
 ﻿using System.Linq;
-using SourceCode.Tools.Management.DataAccessLayer.Model;
-using SourceCode.Tools.Management.Extensions;
+using Tools.Management.DataAccessLayer.Model;
+using Tools.Management.Extensions;
 using SourceCode.Workflow.Management;
 using SourceCode.Workflow.Management.Criteria;
 
-namespace SourceCode.Tools.Management.DataAccessLayer.Managers
+namespace Tools.Management.DataAccessLayer.Managers
 {
     /// <summary>
     /// Handles all Workflow API calls
     /// </summary>
-    /// <seealso cref="SourceCode.Tools.Management.DataAccessLayer.Managers.K2ManagerBaseOfType{SourceCode.Workflow.Management.WorkflowManagementServer}" />
+    /// <seealso cref="Tools.Management.DataAccessLayer.Managers.K2ManagerBaseOfType{SourceCode.Workflow.Management.WorkflowManagementServer}" />
     internal class WorkflowManager : K2ManagerBaseOfType<WorkflowManagementServer>
     {
         public void DeleteProcessInstance(ProcessInstance processInstance)

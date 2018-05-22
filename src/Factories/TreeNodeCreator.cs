@@ -1,8 +1,8 @@
 ﻿using System.Windows.Forms;
-using SourceCode.Tools.Management.Properties;
+using Tools.Management.Properties;
 using SourceCode.Workflow.Management;
 
-namespace SourceCode.Tools.Management.Factories
+namespace Tools.Management.Factories
 {
     internal static class TreeNodeCreator
     {

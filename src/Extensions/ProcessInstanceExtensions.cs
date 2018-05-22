@@ -1,6 +1,6 @@
 ﻿using SourceCode.Workflow.Management;
 
-namespace SourceCode.Tools.Management.Extensions
+namespace Tools.Management.Extensions
 {
     internal static class ProcessInstanceExtensions
     {

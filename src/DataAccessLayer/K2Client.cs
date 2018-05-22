@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
-using SourceCode.Tools.Management.DataAccessLayer.Managers;
+using Tools.Management.DataAccessLayer.Managers;
 
-namespace SourceCode.Tools.Management.DataAccessLayer
+namespace Tools.Management.DataAccessLayer
 {
     /// <summary>
     /// Contains all the K2 API managers

@@ -1,6 +1,6 @@
 ﻿using SourceCode.Hosting.Client.BaseAPI;
 
-namespace SourceCode.Tools.Management.Extensions
+namespace Tools.Management.Extensions
 {
     /// <summary>
     /// Extensions methods for SCConnectionStringBuilder

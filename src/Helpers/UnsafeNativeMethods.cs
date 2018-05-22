@@ -2,7 +2,7 @@
 using System.Runtime.InteropServices;
 using System.Security;
 
-namespace SourceCode.Tools.Management.Helpers
+namespace Tools.Management.Helpers
 {
     [SuppressUnmanagedCodeSecurityAttribute]
     internal static class UnsafeNativeMethods

@@ -1,4 +1,4 @@
-﻿namespace SourceCode.Tools.Management.Forms
+﻿namespace Tools.Management.Forms
 {
     partial class ProcessSetForm
     {
