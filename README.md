@@ -1,4 +1,4 @@
-## SourceCode Tools Management
+## Tools Management
 Thick-client application to manage K2 Workflows.
 
 ### Getting started
